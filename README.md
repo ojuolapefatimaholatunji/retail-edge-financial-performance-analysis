@@ -34,7 +34,7 @@ states and payment modes are driving or destroying value.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](main/Retail%20edge%20Dashboard.png)
+![Dashboard Preview](assets/Retail%20edge%20Dashboard.png)
 
 ---
 
@@ -72,9 +72,6 @@ states and payment modes are driving or destroying value.
 - **Excel Slicers** — interactive filtering
 
 ---
-
-## 📁 Project Structure
-
 
 ## 📂 Dataset
 - **Source:** Sales_Dataset.csv (provided dataset)
