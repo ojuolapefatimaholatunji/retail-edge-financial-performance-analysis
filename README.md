@@ -34,7 +34,7 @@ states and payment modes are driving or destroying value.
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](main/Retail%20edge%20Dashboard.png)
 
 ---
 
